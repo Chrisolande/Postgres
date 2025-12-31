@@ -1,2 +1,5 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 data/*.csv filter=lfs diff=lfs merge=lfs -text
+*.sql linguist-language=SQL
+*.ipynb linguist-language=Python
+
